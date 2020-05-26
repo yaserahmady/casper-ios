@@ -1,6 +1,8 @@
 # Casper
 casper is a CLI tool that lets you toggle tweak preferences on or off and applying the changes without respringing.
 
+🔗 [Download a deb here](https://github.com/yaserahmady/casper-ios/releases/download/0.0.1/com.yaserahmady.casper_0.0.1-18+debug_iphoneos-arm.deb)
+
 ## Disclaimer and bugs
 I'm an absolute dick in Objective-C/Objective-C++, I just read some docs and some open source projects and tried whipping out this useful monstruosity that barely works.
 - It won't work if you run as root, run as mobile. Why? I dunno.
