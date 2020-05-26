@@ -1,0 +1,9 @@
+Package: com.yaserahmady.casper
+Name: casper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: casper is a CLI tool that lets you toggle tweak preferences on or off and applying the changes without respringing.
+Maintainer: Yaser Ahmady
+Author: Yaser Ahmady
+Section: System
+Tag: role::hacker
